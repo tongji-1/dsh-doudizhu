@@ -10,6 +10,12 @@ resizable, minimizable window through the supported `shell.overlay` slot. The
 active agent keeps running underneath it, and so does the card game: a hand
 carries on while the window is minimized or closed entirely.
 
+## Product preview
+
+![dsh-doudizhu floating game table running in DeepSeek Harness](docs/images/dsh-doudizhu-ui.png)
+
+*A three-seat Dou Dizhu table running alongside an active Harness task, with model-driven opponents, work reminders, and live agent status.*
+
 > Entertainment only. Game tokens are local numbers with no monetary value. There are
 > no deposits, withdrawals, purchases, accounts, or multiplayer wagering.
 
