@@ -12,6 +12,7 @@ carries on while the window is minimized or closed entirely.
 
 > Entertainment only. Game tokens are local numbers with no monetary value. There are
 > no deposits, withdrawals, purchases, accounts, or multiplayer wagering.
+![Uploading image.png…]()
 
 ## What works
 
