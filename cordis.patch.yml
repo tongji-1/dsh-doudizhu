@@ -1,0 +1,10 @@
+- insert:
+    - id: dsh-doudizhu
+      name: dsh-doudizhu
+      config:
+        provider: deepseek-official
+        model: deepseek-v4-pro
+        reasoningEffort: high
+        maxTokens: 512
+        temperature: 0.7
+        timeoutMs: 15000
